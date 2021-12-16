@@ -1,0 +1,5 @@
+'''
+	Quando criadas gmm por separado, as classes podem não bater certo
+	para os diferentes canais, pensar numa maneira de os alinhar parecida
+	com o meto usado para alinhamento quando é calculado o produto
+	'''
